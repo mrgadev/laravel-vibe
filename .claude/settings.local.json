@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan vendor:publish:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
