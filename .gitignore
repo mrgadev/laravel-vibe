@@ -22,3 +22,13 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# IDE Helper
+_ide_helper.php
+_ide_helper_models.php
+.php_cs.cache
+.php_cs
+
+# Telescope
+telescope/*
+!telescope/config
